@@ -3,7 +3,7 @@
 cd $1
 
 
-./rmi4update -i cfd9 ./$2 -f $3
+./rmi4update -i cfd9 "./$2" -f "$3"
 
 sleep 10
 
